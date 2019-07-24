@@ -1,2 +1,2 @@
-Projeto Pessoal GSO | MotvLog
+Projeto Pessoal Gso|MotvLog
 
