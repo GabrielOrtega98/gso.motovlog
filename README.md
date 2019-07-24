@@ -1,2 +1,2 @@
-Projeto Pessoal
- (https://gabrielortega98.github.io/gso/)
+Projeto Pessoal (https://gabrielortega98.github.io/gso_motovlog/)
+
